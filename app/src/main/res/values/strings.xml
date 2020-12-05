@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">firs_tapp</string>
+    <string name="note_title">Note Title</string>
+    <string name="date">Date</string>
+    <string name="save">SAVE</string>
+    <string name="enter_title">Enter title</string>
+    <string name="string_enter_title" />
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="enter_title_of_note">enter title of note</string>
+    <string name="desc">Image</string>
+    <string name="noteTitle">NoteTitle</string>
+    <string name="datetime">DateTime</string>
+    <string name="noteText">NoteText</string>
+    <string name="enter_note">enter_note</string>
+    <string name="delete">Delete</string>
+</resources>
